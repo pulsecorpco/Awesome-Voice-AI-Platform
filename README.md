@@ -54,6 +54,7 @@ This repository tracks the premier **SaaS platforms** 🏢 and **open-source pro
 | **[Cartesia](https://cartesia.ai/)** | Low-latency generative voice and speech models optimized for real-time conversational AI. | ~$30M+ | ~1 credit per character (TTS) | 20,000 credits per month |
 | **[Retell AI](https://www.retellai.com/)** | Full-stack AI voice agent platform optimized for natural turn-taking and telephony. | ~$30M+ | $0.13 to $0.31 per minute | $10 credit (20 concurrent calls) |
 | **[LiveKit Cloud](https://livekit.io/)** | Real-time WebRTC infrastructure and Agents framework for multimodal applications. | ~$20M+ | $0.01 per agent-session min | 1,000 Agent Session mins/month |
+| **[Pulse](https://pulsecorp.co)** | AI-moderated market research platform that runs customer interviews at scale by voice, video, text chat, phone call and WhatsApp. | Bootstrapped (founded 2026) | Paid plans | Free trial available (no free tier) |
 
 ---
 
